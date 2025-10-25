@@ -28,6 +28,9 @@ st.title("🎯 Coaching Practice Simulator")
 file_path = "Coach_Training_Scenarios_ICF_PCC.xlsx"
 data = load_data(file_path)
 
+if 'scenario_counter' not in st.session_state:
+    st.session_state.scenario_counter = 0
+
 if data is None:
     st.warning("⚠️ Please ensure 'Coach_Training_Scenarios_ICF_PCC.xlsx' is in the same directory as app.py")
     st.info("The Excel file should contain sheets for: Career, Leadership, Relationship, Self Improvement, and Value System")
@@ -41,8 +44,8 @@ else:
     if 'current_scenario' not in st.session_state or st.session_state.get('current_category') != category:
         st.session_state.current_category = category
         st.session_state.current_scenario = get_random_scenario(data[category])
-        st.session_state.user_response = ""
         st.session_state.show_examples = False
+        st.session_state.scenario_counter += 1
     
     st.markdown("---")
     
@@ -57,14 +60,12 @@ else:
         st.markdown("---")
         
         st.markdown("### ✍️ Your Coaching Response")
-        user_response = st.text_area(
+        st.text_area(
             "Type your coaching response here:",
-            value=st.session_state.user_response,
             height=150,
-            key="response_input",
+            key=f"response_input_{st.session_state.scenario_counter}",
             placeholder="Practice asking a powerful, open-ended question that helps the client explore their situation..."
         )
-        st.session_state.user_response = user_response
         
         st.markdown("---")
         
@@ -77,8 +78,8 @@ else:
         with col2:
             if st.button("🔄 New Scenario", use_container_width=True):
                 st.session_state.current_scenario = get_random_scenario(data[category])
-                st.session_state.user_response = ""
                 st.session_state.show_examples = False
+                st.session_state.scenario_counter += 1
                 st.rerun()
         
         if st.session_state.show_examples:
