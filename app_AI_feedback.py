@@ -58,11 +58,22 @@ def get_ai_client(llm_provider):
             api_key="ollama"  # Ollama doesn't need a real API key
         )
     else:
-        # OpenAI
-        if "OPENAI_API_KEY" not in st.secrets:
-            st.error("⚠️ OpenAI API key not found in secrets. Please add it to .streamlit/secrets.toml")
+        # OpenAI - Check both secrets and environment variables
+        import os
+        api_key = None
+
+        # Try secrets first (local development)
+        if "OPENAI_API_KEY" in st.secrets:
+            api_key = st.secrets["OPENAI_API_KEY"]
+        # Fallback to environment variable (for Render/production)
+        elif "OPENAI_API_KEY" in os.environ:
+            api_key = os.environ["OPENAI_API_KEY"]
+
+        if not api_key:
+            st.error("⚠️ OpenAI API key not found. Please add it to .streamlit/secrets.toml or set OPENAI_API_KEY environment variable.")
             return None
-        return OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
+
+        return OpenAI(api_key=api_key)
 
 # --- Setup ---
 st.set_page_config(page_title="Coaching Practice Simulator", page_icon="💬")
