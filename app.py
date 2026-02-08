@@ -59,16 +59,6 @@ else:
         
         st.markdown("---")
         
-        st.markdown("### ✍️ Your Coaching Response")
-        st.text_area(
-            "Type your coaching response here:",
-            height=150,
-            key=f"response_input_{st.session_state.scenario_counter}",
-            placeholder="Practice asking a powerful, open-ended question that helps the client explore their situation..."
-        )
-        
-        st.markdown("---")
-        
         col1, col2 = st.columns(2)
         
         with col1:
@@ -98,4 +88,35 @@ else:
         st.error("No scenarios available in this category.")
     
     st.markdown("---")
-    st.markdown("💡 **Future feature:** AI feedback on your response based on ICF competencies.")
+    # --- Simple rule-based ICF feedback engine ---
+    competency_map = {
+        "Evokes Awareness": ["what", "how", "could", "might", "imagine", "notice"],
+        "Active Listening": ["I hear", "you said", "it sounds", "you mentioned"],
+        "Maintains Presence": ["let’s pause", "take a moment", "what are you feeling"],
+        "Cultivates Trust & Safety": ["thank you for sharing", "that sounds hard", "I appreciate your honesty"],
+        "Facilitates Growth": ["next step", "apply", "move forward", "experiment", "commit"]
+    }
+
+    # --- Feedback section ---
+    def evaluate_icf_feedback(coach_input):
+    # This function should probably have access to `competency_map`
+    # which should be defined elsewhere in your global scope.
+        coach_input_lower = coach_input.lower()
+        matched = [c for c, kws in competency_map.items() if any(k in coach_input_lower for k in kws)]
+        if not coach_input.strip():
+            return "Please enter your coaching response to get feedback."
+        if matched:
+            return f"✅ Your response aligns with: {', '.join(matched)}.\n\nGreat use of curiosity and reflection!"
+        return "🤔 I didn’t detect clear ICF-aligned phrasing.\nTry using more open-ended or awareness-based questions (e.g., starting with *what* or *how*)."
+
+    # --- Main app layout and logic ---
+    # ✅ Define `coach_input` in the main script body using a widget.
+    # This ensures it is always defined and available during each rerun.
+    coach_input = st.text_area("✍️ Enter your coaching response here:")
+
+    # --- Feedback section ---
+    if st.button("💬 Get Feedback"):
+        # The button logic now correctly uses the globally available `coach_input`
+        feedback = evaluate_icf_feedback(coach_input)
+        st.markdown("### 🧠 Feedback")
+        st.success(feedback)

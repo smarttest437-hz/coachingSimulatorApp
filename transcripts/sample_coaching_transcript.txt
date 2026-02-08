@@ -1,0 +1,879 @@
+WEBVTT
+1
+00:00:02.740 --> 00:00:06.029
+Coach: Hi! Good morning, Liz. How are you today?
+2
+00:00:06.030 --> 00:00:08.410
+Coachee: I'm good! How are you?
+3
+00:00:08.860 --> 00:00:10.499
+Coach: I'm doing well, thank you.
+4
+00:00:10.670 --> 00:00:14.719
+Coach: Is there anything you need to do before we can get started?
+5
+00:00:16.379 --> 00:00:21.359
+Coachee: No, I've got everything here. Yep. Ready to go! Yes.
+6
+00:00:22.070 --> 00:00:24.560
+Coach: Okay, so tell me what's on your mind?
+7
+00:00:29.720 --> 00:00:39.870
+Coachee: So, I… I've been doing a lot of, things lately to… kind of…
+8
+00:00:40.930 --> 00:00:49.520
+Coachee: not focus on me, and also focus on, sort of, the year. And
+I've noticed that,
+9
+00:00:51.590 --> 00:00:58.490
+Coachee: I've been sometimes putting off, like, exercise…
+10
+00:01:00.520 --> 00:01:05.680
+Coachee: Or things like that, that, like, at the end of the day, I'm
+like, ugh, I feel guilty.
+11
+00:01:06.090 --> 00:01:12.080
+Coachee: I kind of, like… because, I know that…
+12
+00:01:12.960 --> 00:01:29.099
+Coachee: Moving my body and getting exercise, or, you know, doing all
+those things is important, and it also helps me to just, like,
+regulate myself, throughout the week, so…
+13
+00:01:29.390 --> 00:01:35.609
+Coachee: I have noticed, like, A bit of a drop in my energy levels
+because of it.
+14
+00:01:37.220 --> 00:01:37.870
+Coach: Hmm.
+15
+00:01:38.030 --> 00:01:43.699
+Coach: Yeah, I'm hearing that you are feeling guilty that you're not
+doing exercise.
+16
+00:01:43.890 --> 00:01:45.980
+Coachee: Like, it can be.
+17
+00:01:46.320 --> 00:01:48.189
+Coach: And your energy has dropped.
+18
+00:01:51.040 --> 00:01:51.600
+Coach: Right.
+19
+00:01:54.270 --> 00:01:58.750
+Coach: So, just curious to know, you say guilty. What makes you
+guilty?
+20
+00:02:04.970 --> 00:02:12.880
+Coachee: myself, I don't know. I think it's just, like, I set these…
+goals for myself.
+21
+00:02:13.480 --> 00:02:20.140
+Coachee: or expectations for myself, and then when I… don't feel I've
+met them.
+22
+00:02:21.480 --> 00:02:30.420
+Coachee: It just makes me… feel like… Yeah.
+23
+00:02:31.810 --> 00:02:35.659
+Coachee: The feeling of guilt is kind of like… I should have done
+that.
+24
+00:02:36.940 --> 00:02:45.199
+Coachee: I'm trying to… Work on the inner.
+25
+00:02:45.500 --> 00:02:52.130
+Coachee: critic and… and… change that… response.
+26
+00:02:53.670 --> 00:03:00.770
+Coachee: So that I don't take that negative talk into the next day.
+27
+00:03:01.020 --> 00:03:04.430
+Coachee: Sometimes that negative talk
+28
+00:03:05.080 --> 00:03:12.840
+Coachee: will restrict me, even the next day, from doing it, just
+because then I'm like, Yeah.
+29
+00:03:15.270 --> 00:03:20.100
+Coach: Hmm, so you would like to change the response to your negative
+inner critic?
+30
+00:03:20.970 --> 00:03:23.010
+Coachee: Boohoo.
+31
+00:03:23.460 --> 00:03:24.080
+Coach: Yeah.
+32
+00:03:24.500 --> 00:03:29.380
+Coach: So… With that, what would you like to have at the end of
+today's session?
+33
+00:03:37.010 --> 00:03:46.319
+Coachee: I think, maybe, like, a tool.
+34
+00:03:48.070 --> 00:03:53.520
+Coachee: that I can use, when…
+35
+00:03:54.920 --> 00:03:58.919
+Coachee: I'm having that negative self-talk,
+36
+00:04:01.650 --> 00:04:03.720
+Coachee: to come out of it. So…
+37
+00:04:04.750 --> 00:04:09.219
+Coachee: basically, like, I don't want to go two days in a row without
+not…
+38
+00:04:09.410 --> 00:04:13.370
+Coachee: with not having that exercise, because I know it's important.
+39
+00:04:15.870 --> 00:04:17.890
+Coachee: And maybe it's just…
+40
+00:04:21.350 --> 00:04:25.510
+Coachee: I think I would like to have… Maybe a…
+41
+00:04:26.190 --> 00:04:30.450
+Coachee: A different view on what exercise is.
+42
+00:04:33.180 --> 00:04:34.300
+Coach: Different view.
+43
+00:04:37.770 --> 00:04:41.880
+Coach: Just curious to know, what's your definition of a different
+view?
+44
+00:04:42.120 --> 00:04:43.620
+Coach: What's your current view?
+45
+00:04:44.200 --> 00:04:47.409
+Coachee: Yeah, so when I think of exercise.
+46
+00:04:48.250 --> 00:04:55.160
+Coachee: It's typically, like, getting to the gym, or getting my heart
+rate up, or,
+47
+00:04:59.470 --> 00:05:12.409
+Coachee: Yeah, like, those kinds of things, like, very structured…
+Movements. But, like…
+48
+00:05:14.130 --> 00:05:21.879
+Coachee: Yesterday, for instance, I ended up going skating, which was
+exercise.
+49
+00:05:22.050 --> 00:05:28.549
+Coachee: Which is good, but it's like…
+50
+00:05:31.120 --> 00:05:35.850
+Coachee: I guess maybe recognizing that that is… Like, moving my body.
+51
+00:05:36.220 --> 00:05:41.160
+Coachee: And not… and not feeling bad for not having…
+52
+00:05:42.000 --> 00:05:48.720
+Coachee: done, you know, my push-ups, or my kettlebell reps, or things
+like that.
+53
+00:05:52.280 --> 00:05:53.050
+Coachee: Yeah.
+54
+00:05:54.210 --> 00:06:00.940
+Coach: Yeah, I'm hearing that you want to change your view in terms of
+what kind of exercise considered as exercise.
+55
+00:06:02.970 --> 00:06:03.540
+Coach: Right.
+56
+00:06:04.990 --> 00:06:06.990
+Coach: Okay, how do you know if you have it?
+57
+00:06:13.380 --> 00:06:20.859
+Coachee: I won't question it, or I won't feel, I'll feel content that…
+58
+00:06:23.840 --> 00:06:29.240
+Coachee: I've gotten through the day, and moved my body.
+59
+00:06:30.440 --> 00:06:32.230
+Coachee: I think it's also just, like.
+60
+00:06:34.210 --> 00:06:40.880
+Coachee: A reframing, in my mind, of, kind of, the story I tell
+myself.
+61
+00:06:41.180 --> 00:06:45.150
+Coachee: At the end of the day, that…
+62
+00:06:48.250 --> 00:06:58.569
+Coachee: just because I didn't get to the gym, or just because I
+didn't do anything, like, my dumbbells or something like that doesn't
+mean that I didn't move my body.
+63
+00:06:58.840 --> 00:07:05.469
+Coachee: And so… Maybe giving myself a little bit more grace for…
+64
+00:07:09.920 --> 00:07:15.010
+Coachee: Getting myself up and moving around, and, you know, there's
+things that happen in life
+65
+00:07:15.340 --> 00:07:20.230
+Coachee: Or throughout the day, or whatever, that sometimes don't…
+66
+00:07:20.510 --> 00:07:22.990
+Coachee: Give me the time to do…
+67
+00:07:23.770 --> 00:07:28.129
+Coachee: To get to the gym, or… or to do the exercise, I…
+68
+00:07:28.570 --> 00:07:30.750
+Coachee: was planning on doing, and so…
+69
+00:07:31.620 --> 00:07:39.630
+Coachee: I think it's… yeah, I think it's just more… Accepting that.
+70
+00:07:41.030 --> 00:07:47.399
+Coachee: And then… Not bringing that into the next day.
+71
+00:07:48.220 --> 00:07:49.570
+Coachee: The negative side.
+72
+00:07:50.300 --> 00:07:58.699
+Coach: Yeah, I'm also hearing this negative thought that's… Is there
+that can… Can impact you negatively.
+73
+00:08:01.780 --> 00:08:06.470
+Coach: Okay, earlier you mentioned that energy. You're…
+74
+00:08:06.600 --> 00:08:08.849
+Coach: You said your energy dropped a little.
+75
+00:08:09.740 --> 00:08:12.440
+Coach: Personal by doing different exercises.
+76
+00:08:15.020 --> 00:08:16.380
+Coach: What do you notice?
+77
+00:08:17.010 --> 00:08:18.930
+Coach: Lututing ski.
+78
+00:08:21.100 --> 00:08:22.689
+Coachee: Skating? Or skiing?
+79
+00:08:23.100 --> 00:08:26.989
+Coach: Sorry, just the… just like you said, a different kind of
+exercise.
+80
+00:08:26.990 --> 00:08:27.540
+Coachee: Oh.
+81
+00:08:28.250 --> 00:08:29.780
+Coach: In terms of energy.
+82
+00:08:29.890 --> 00:08:30.440
+Coach: What do you…
+83
+00:08:30.440 --> 00:08:31.300
+Coachee: Yes.
+84
+00:08:34.710 --> 00:08:37.660
+Coachee: Yeah, I mean, I get energy from…
+85
+00:08:38.530 --> 00:08:46.410
+Coachee: I mean, sometimes I feel tired after exercise, but it's,
+like, a good tired. It's like, oh, okay, like…
+86
+00:08:46.640 --> 00:08:52.259
+Coachee: I used up… Some of my energy, but, like, in a good way.
+87
+00:08:52.430 --> 00:08:56.650
+Coachee: So it's like a rewarding tired,
+88
+00:08:58.420 --> 00:09:03.900
+Coachee: I get, like, these dopamine kind of bumps, especially, like.
+89
+00:09:04.920 --> 00:09:10.789
+Coachee: when I get to the gym, and like, even if I do… and I think
+that's the other thing, is that…
+90
+00:09:11.140 --> 00:09:17.839
+Coachee: I don't… even if I get to the gym and do 10 minutes of an
+exercise, it's… it's the…
+91
+00:09:18.800 --> 00:09:25.850
+Coachee: it's the process of getting there, and, like, actually
+physically doing it. And, you know,
+92
+00:09:26.000 --> 00:09:32.889
+Coachee: And maybe that's it, like, I don't need to do an hour or
+more. It's like…
+93
+00:09:33.610 --> 00:09:35.700
+Coachee: Allotting my time more.
+94
+00:09:36.260 --> 00:09:42.459
+Coachee: Realistically, to fit it in. And if it's…
+95
+00:09:42.930 --> 00:09:52.030
+Coachee: maybe not the gym, then, like, how do I fit it into my day?
+So, you know, carving out time within my day so that I…
+96
+00:09:53.600 --> 00:09:57.010
+Coachee: can get it done. It just makes me feel better.
+97
+00:09:57.800 --> 00:10:07.060
+Coachee: And it's important for my health, and so… Yeah, we have… We
+do have stuff.
+98
+00:10:07.420 --> 00:10:15.660
+Coachee: Like, weights and stuff here at the house, so… It's
+manageable. It's doable.
+99
+00:10:17.130 --> 00:10:17.690
+Coach: Right.
+100
+00:10:20.040 --> 00:10:25.909
+Coach: So… What's in your mind in terms of, Exercise.
+101
+00:10:28.480 --> 00:10:35.280
+Coachee: Can you… Say that a different way?
+102
+00:10:36.510 --> 00:10:40.140
+Coach: So, you mentioned that you can do exercise at home.
+103
+00:10:40.140 --> 00:10:40.820
+Coachee: Hmm.
+104
+00:10:42.430 --> 00:10:45.939
+Coach: What would you, if you do exercise at home.
+105
+00:10:46.060 --> 00:10:48.690
+Coach: What's… what's your view on that?
+106
+00:10:48.690 --> 00:10:49.370
+Coachee: Hmm.
+107
+00:10:50.840 --> 00:10:59.900
+Coachee: Yeah, I mean… it's fine. I just don't feel like… because I
+think, really, we're…
+108
+00:11:00.150 --> 00:11:02.260
+Coachee: Maybe the… the thing that…
+109
+00:11:03.250 --> 00:11:12.659
+Coachee: maybe makes me feel different about it is that, like, my home
+is where I live, my home is where I work, and my home is where, you
+know.
+110
+00:11:13.240 --> 00:11:18.669
+Coachee: So, I don't… I guess maybe it's, like, the change of scenery
+for me?
+111
+00:11:18.980 --> 00:11:28.920
+Coachee: That is part of the, like, feeling of… The exercise. And so…
+112
+00:11:29.340 --> 00:11:37.160
+Coachee: Maybe it's just changing my view around, that. And…
+113
+00:11:38.550 --> 00:11:43.000
+Coachee: Maybe it's just doing it, like, in a different room, or,
+114
+00:11:46.150 --> 00:11:53.880
+Coachee: Like, putting on my exercise clothes and changing out of
+them, you know, just, like, maybe just changing the ritual of it.
+115
+00:11:55.150 --> 00:11:59.240
+Coach: Yeah, here you're trying to make a little bit of difference,
+that's why.
+116
+00:11:59.240 --> 00:11:59.899
+Coachee: That's amazing.
+117
+00:11:59.900 --> 00:12:00.650
+Coach: more.
+118
+00:12:01.320 --> 00:12:02.300
+Coach: fun.
+119
+00:12:03.030 --> 00:12:06.689
+Coach: Yeah. So what else could be possible?
+120
+00:12:07.590 --> 00:12:15.310
+Coach: to… What is required to call it an exercise that you feel like.
+121
+00:12:15.310 --> 00:12:16.010
+Coachee: Mmm.
+122
+00:12:17.240 --> 00:12:27.430
+Coachee: I think it's just, like… consciously… Acknowledging.
+123
+00:12:28.030 --> 00:12:41.040
+Coachee: when… I… am moving my body, like, specifically that I've
+carved out time, like, let's say 10 minutes,
+124
+00:12:43.650 --> 00:12:52.039
+Coachee: And… like, acknowledging that, okay, that's… that's my time,
+I'm not going to be distracted.
+125
+00:12:53.160 --> 00:12:59.570
+Coachee: And just like I wouldn't be at the gym, I would go, I would
+do what I do, so it's…
+126
+00:13:00.050 --> 00:13:06.820
+Coachee: I think that's really what… And…
+127
+00:13:07.140 --> 00:13:09.869
+Coachee: Sometimes writing it down helps me, too.
+128
+00:13:09.970 --> 00:13:16.460
+Coachee: Because… it's like… almost like a meeting that I don't want
+to miss, and so…
+129
+00:13:16.660 --> 00:13:19.600
+Coachee: Putting that time into my schedule.
+130
+00:13:20.200 --> 00:13:22.800
+Coachee: For me.
+131
+00:13:23.540 --> 00:13:24.720
+Coachee: is helpful.
+132
+00:13:25.570 --> 00:13:26.110
+Coach: Right.
+133
+00:13:26.690 --> 00:13:30.520
+Coach: You want to make it a task for the day that you did it.
+134
+00:13:32.190 --> 00:13:33.010
+Coachee: Yeah.
+135
+00:13:34.000 --> 00:13:40.600
+Coach: Right So, if you do that, what response will you give to
+yourself?
+136
+00:13:51.290 --> 00:13:53.489
+Coachee: I'm here, you didn't.
+137
+00:13:54.010 --> 00:13:55.260
+Coachee: We didn't.
+138
+00:13:55.480 --> 00:13:56.480
+Coach: Woohoo.
+139
+00:13:56.670 --> 00:14:09.389
+Coachee: And, maybe just noticing the… The feeling of…
+140
+00:14:10.120 --> 00:14:12.509
+Coachee: how I feel after I do it.
+141
+00:14:12.850 --> 00:14:16.730
+Coachee: And recognizing that and thanking myself for, you know.
+142
+00:14:18.020 --> 00:14:20.459
+Coachee: So, just maybe more mindful about it.
+143
+00:14:22.100 --> 00:14:25.930
+Coach: I'm here to recognize that you did it.
+144
+00:14:25.930 --> 00:14:27.380
+Coachee: It is exercise.
+145
+00:14:27.570 --> 00:14:28.230
+Coach: For yourself.
+146
+00:14:29.700 --> 00:14:30.610
+Coachee: Yeah.
+147
+00:14:32.030 --> 00:14:32.640
+Coach: Right.
+148
+00:14:33.220 --> 00:14:36.589
+Coach: Other than home exercise, what else,
+149
+00:14:37.780 --> 00:14:41.710
+Coach: Could be some alternative as exercise that fits in your
+schedule.
+150
+00:14:45.220 --> 00:14:47.160
+Coachee: I mean, walking the dogs.
+151
+00:14:47.940 --> 00:14:54.309
+Coachee: they need exercise, too. So, I feel good about that, because
+you know, I'm…
+152
+00:14:55.410 --> 00:14:58.829
+Coachee: Taking care of myself and them.
+153
+00:14:59.660 --> 00:15:04.169
+Coachee: And we have, like, some really nice trails and stuff, so I…
+154
+00:15:04.310 --> 00:15:09.209
+Coachee: Right now, it's really snowy, so I have to, like, snowshoe
+through.
+155
+00:15:09.670 --> 00:15:12.610
+Coachee: So, but that's good exercise.
+156
+00:15:13.250 --> 00:15:22.879
+Coachee: And it's nice to get the fresh air, so it's change of
+scenery. Yeah, I mean, I think…
+157
+00:15:23.190 --> 00:15:30.119
+Coachee: there's different types of exercise, too. There's, like,
+yoga, there's,
+158
+00:15:30.850 --> 00:15:34.380
+Coachee: strength training, there's… like, I've done…
+159
+00:15:34.530 --> 00:15:42.679
+Coachee: YouTube exercises before. I mean, we have I went skating last
+night.
+160
+00:15:42.910 --> 00:15:49.379
+Coachee: I'm going skiing tomorrow, so there… there are options.
+We're… we live in a place
+161
+00:15:49.510 --> 00:15:52.429
+Coachee: Where there's a lot of options for…
+162
+00:15:52.790 --> 00:15:55.980
+Coachee: Exercise other than the gym. Outdoor exercise.
+163
+00:15:56.480 --> 00:15:57.140
+Coach: Hmm.
+164
+00:15:58.320 --> 00:16:00.290
+Coach: Lots of good options come out.
+165
+00:16:01.960 --> 00:16:06.250
+Coach: Yeah, and… In terms of energy level.
+166
+00:16:07.290 --> 00:16:08.920
+Coach: What will give you energy?
+167
+00:16:14.630 --> 00:16:22.470
+Coachee: Oh, one of the things that gives me energy is, like, I like…
+Doing activities with people.
+168
+00:16:23.300 --> 00:16:31.749
+Coachee: So, you know, it's always fun to go, like, skiing, or, you
+know…
+169
+00:16:32.170 --> 00:16:38.649
+Coachee: hiking, or things like that with people, I… I find that
+enjoyable.
+170
+00:16:39.330 --> 00:16:46.500
+Coachee: sometimes just doing things on my own also gives me energy,
+it just depends on how I feel. Like, I like to recharge.
+171
+00:16:47.210 --> 00:16:52.699
+Coachee: Putting a good like, playlist on while I'm…
+172
+00:16:53.990 --> 00:17:01.110
+Coachee: Exercising is good, too. Music gives me energy. Yeah,
+there's… well…
+173
+00:17:01.290 --> 00:17:06.700
+Coachee: Obviously, sleeping and rest also. So having a good sleep.
+174
+00:17:08.410 --> 00:17:13.190
+Coachee: It does help me sleep, too, when I… When I exercise.
+175
+00:17:13.640 --> 00:17:18.490
+Coachee: So… I mean, it'll all kind of, I guess, relates.
+176
+00:17:18.930 --> 00:17:19.670
+Coachee: Back.
+177
+00:17:22.789 --> 00:17:25.339
+Coach: There's so many options in your plate.
+178
+00:17:25.339 --> 00:17:25.989
+Coachee: to go.
+179
+00:17:26.500 --> 00:17:35.459
+Coach: And… Would you, what… in terms of what we want to achieve
+today. So, what would you…
+180
+00:17:40.430 --> 00:17:45.940
+Coach: So, how confident do you feel like you can push through those
+exercises?
+181
+00:17:46.060 --> 00:17:48.630
+Coach: That different kind of exercise that can help you.
+182
+00:17:53.120 --> 00:18:05.980
+Coachee: feel pretty confident. I think it's more just, like, my
+mindset, and… The story I tell myself.
+183
+00:18:06.400 --> 00:18:08.940
+Coachee: So it's… instead of, you know.
+184
+00:18:09.320 --> 00:18:17.900
+Coachee: I'm too tired, I can't do this, or I don't want to do this,
+it's… I will feel… better.
+185
+00:18:18.280 --> 00:18:20.170
+Coachee: if I do this, and I…
+186
+00:18:20.310 --> 00:18:21.969
+Coachee: all I have to do is…
+187
+00:18:23.770 --> 00:18:28.599
+Coachee: is start, and I don't… and even if it's, like, 5 minutes.
+188
+00:18:29.300 --> 00:18:33.510
+Coachee: it's at least something, rather than nothing. And then I…
+189
+00:18:34.430 --> 00:18:39.860
+Coachee: You know, and then I will feel better that I did it than if I
+just…
+190
+00:18:41.490 --> 00:18:51.279
+Coachee: didn't. So, yeah. I think it's just changing my, thought on
+how long it takes, or how long I should be going for.
+191
+00:18:52.570 --> 00:18:53.180
+Coach: Right.
+192
+00:18:53.390 --> 00:18:55.780
+Coach: What could be possibly in the way?
+193
+00:18:56.000 --> 00:18:58.250
+Coach: For you to start doing exercise.
+194
+00:19:03.770 --> 00:19:15.400
+Coachee: Well, I mean… I do exercise pretty regularly, but I, I think,
+again, it's just changing my…
+195
+00:19:17.980 --> 00:19:24.070
+Coachee: mindset on the length of time when I don't feel that I have
+time, so I think it's, like.
+196
+00:19:30.790 --> 00:19:35.360
+Coachee: Finding creative ways to add it into my day.
+197
+00:19:36.970 --> 00:19:40.199
+Coachee: That can be fun.
+198
+00:19:45.580 --> 00:19:50.689
+Coach: What tools can… Use… Like, can you use to help you?
+199
+00:19:51.570 --> 00:19:53.650
+Coach: To make sure this is happening.
+200
+00:19:54.520 --> 00:19:59.779
+Coachee: I can set reminders on my phone,
+201
+00:20:01.530 --> 00:20:06.370
+Coachee: I could put some, like, carve time out in my calendar.
+202
+00:20:07.290 --> 00:20:15.799
+Coachee: we leave the barbell in our kitchen. So, you know, just
+having things readily available,
+203
+00:20:16.150 --> 00:20:21.010
+Coachee: Not having, you know, That doesn't necessarily take a lot of
+time.
+204
+00:20:21.160 --> 00:20:27.140
+Coachee: So, just like… You know, making…
+205
+00:20:28.080 --> 00:20:31.479
+Coachee: Making different choices for myself,
+206
+00:20:33.010 --> 00:20:38.640
+Coachee: I think also just, like, I can put up some…
+207
+00:20:40.070 --> 00:20:44.460
+Coachee: Like, quotes that are kind of motivational for me as well.
+208
+00:20:44.800 --> 00:20:50.019
+Coachee: that… Can remind me that, okay.
+209
+00:20:50.520 --> 00:20:52.750
+Coachee: I know how I feel when I do this.
+210
+00:20:53.580 --> 00:21:05.690
+Coachee: And, it just, like… It'll just give me these little… Gentle
+nudges.
+211
+00:21:06.510 --> 00:21:11.869
+Coach: Yeah. Yeah, I'm hearing a lot of great insight, and thank you
+for sharing that with me.
+212
+00:21:12.840 --> 00:21:19.859
+Coach: I'm… So, where we're at in terms of this different view.
+213
+00:21:20.460 --> 00:21:21.190
+Coachee: Yeah.
+214
+00:21:22.590 --> 00:21:25.850
+Coachee: feeling more hopeful. I think I'm…
+215
+00:21:26.320 --> 00:21:31.380
+Coachee: shifted my view a little bit more on, sort of, like, the
+possibilities of
+216
+00:21:31.950 --> 00:21:36.140
+Coachee: what I can do with the time that I have,
+217
+00:21:37.220 --> 00:21:42.890
+Coachee: And that's hopeful for me, so, like… You know, again, it's
+like…
+218
+00:21:44.380 --> 00:21:53.650
+Coachee: making it a priority. Even if it's a short period of time,
+it's still something that's important, and making
+219
+00:21:54.080 --> 00:21:54.870
+Coachee: you know.
+220
+00:21:55.500 --> 00:21:59.259
+Coachee: And it can be, like, throughout the day, it doesn't have to
+be in one…
+221
+00:21:59.870 --> 00:22:06.159
+Coachee: specific time, like, it can… It can be different little
+things as… as I go.
+222
+00:22:06.740 --> 00:22:14.620
+Coachee: That I can still accomplish. So, maybe it's just, like, also
+finding different exercises that I can do when I'm…
+223
+00:22:16.010 --> 00:22:18.170
+Coachee: Actually, that's… that's a good way.
+224
+00:22:18.360 --> 00:22:24.910
+Coachee: Of looking at it is, like, maybe finding, like, a routine, or
+something, when I…
+225
+00:22:25.100 --> 00:22:27.690
+Coachee: for times when I don't have as much time.
+226
+00:22:28.170 --> 00:22:32.949
+Coachee: That I can just do at home, like, in between, or…
+227
+00:22:33.380 --> 00:22:37.889
+Coachee: like, in between my work, or in between whatever I'm doing,
+that…
+228
+00:22:38.230 --> 00:22:41.240
+Coachee: Are easy, but make me feel good.
+229
+00:22:41.890 --> 00:22:42.600
+Coach: Hmm.
+230
+00:22:42.710 --> 00:22:45.889
+Coach: Yeah, in the next couple days, what would you…
+231
+00:22:46.270 --> 00:22:47.999
+Coach: What can you take as a first step?
+232
+00:22:51.620 --> 00:22:58.620
+Coachee: Yeah, finding… I think I'm gonna start looking for some
+programs that can fit into my lifestyle.
+233
+00:22:58.820 --> 00:23:04.819
+Coachee: That don't necessarily… like, maybe, like, an app or
+something that…
+234
+00:23:04.950 --> 00:23:14.829
+Coachee: Can help with, different exercises for… Me that can… Can work
+with.
+235
+00:23:16.110 --> 00:23:17.130
+Coachee: my day.
+236
+00:23:19.270 --> 00:23:20.090
+Coachee: Yeah.
+237
+00:23:21.590 --> 00:23:25.940
+Coach: Yeah, okay, so, well, thank you, Liz, for… for…
+238
+00:23:26.060 --> 00:23:38.260
+Coach: for share this conversation with me, and it's quite inspiring
+to hear different ideas come out. And just as we wrap up, I want to
+know, ask you, what has stood out in today's meeting?
+239
+00:23:44.690 --> 00:23:47.330
+Coachee: like, the stories I tell myself.
+240
+00:23:48.520 --> 00:23:52.700
+Coachee: And realizing the excuses that I make.
+241
+00:23:54.020 --> 00:24:04.080
+Coachee: that hold me back from doing something, whereas if I stopped,
+like, the time that I take to make the excuse, I could be doing
+something else, like…
+242
+00:24:04.190 --> 00:24:08.690
+Coachee: productive to… implement a change.
+243
+00:24:09.140 --> 00:24:11.489
+Coachee: So I think that that's encouraging, is…
+244
+00:24:11.900 --> 00:24:18.890
+Coachee: just recognizing when that happens, and what can I do to
+override that, or change that pattern.
+245
+00:24:21.470 --> 00:24:25.610
+Coach: What could be something you can think of that, if you felt like
+you don't want to do.
+246
+00:24:25.720 --> 00:24:27.829
+Coach: The exercise you want to do.
+247
+00:24:29.490 --> 00:24:39.979
+Coachee: There's some reminder, it could be… Yeah, I think… Maybe
+having,
+248
+00:24:40.230 --> 00:24:50.009
+Coachee: Matt, like, hold me accountable. At the end of the day,
+asking me, kind of, like, oh, you know, you've set the goal of doing…
+249
+00:24:50.860 --> 00:24:58.560
+Coachee: 10 minutes a day of… of strength training. You know, what
+have you done today?
+250
+00:24:58.920 --> 00:25:04.010
+Coachee: And if I haven't, then… You know, before I can…
+251
+00:25:04.860 --> 00:25:08.489
+Coachee: watch TV, or something like that, like, I just do that.
+252
+00:25:10.820 --> 00:25:12.970
+Coachee: Unless I'm sick or something, but…
+253
+00:25:13.690 --> 00:25:14.500
+Coach: Yeah.
+254
+00:25:14.740 --> 00:25:16.700
+Coach: Matt, Matt can help you.
+255
+00:25:17.040 --> 00:25:17.840
+Coachee: Yeah.
+256
+00:25:18.350 --> 00:25:19.420
+Coach: Hold you accountable.
+257
+00:25:19.830 --> 00:25:21.099
+Coachee: Yeah, he's good like that.
+258
+00:25:23.260 --> 00:25:24.660
+Coach: Right? Okay.
+259
+00:25:24.770 --> 00:25:27.150
+Coach: Alright, thank you so much, Liz.
+260
+00:25:27.150 --> 00:25:28.860
+Coachee: Thank you, Patty.
+261
+00:25:28.860 --> 00:25:29.799
+Coach: to put in.
+262
+00:25:30.200 --> 00:25:33.100
+Coachee: Of course, my pleasure. Thank you.
+263
+00:25:33.870 --> 00:25:35.059
+Coachee: Let me just grab my pen.

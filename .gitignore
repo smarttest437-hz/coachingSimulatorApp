@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Streamlit secrets (IMPORTANT - contains API keys)
+.streamlit/secrets.toml
+
+# Local development
+.local/
+.replit
+replit.md
+uv.lock
+
+# Backup files
+*_backup_*.json
+
+# Test files (optional - uncomment if you don't want to track)
+# test_*.py
